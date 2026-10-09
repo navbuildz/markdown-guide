@@ -40,7 +40,6 @@ syntax:
     notes: "The editor colors code in about 100 languages. HTML export keeps the language class but doesn't add colors."
   - id: footnotes
     available: p
-    notes: "Footnotes render in the editor and in exports, but the links between the reference and the note don't work in HTML export."
   - id: heading-ids
     available: n
   - id: definition-lists
